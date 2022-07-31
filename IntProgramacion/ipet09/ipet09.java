@@ -2,10 +2,10 @@
 // ipet09
 
 /* 1. Crear Class 'Persona' 
-       1.1. Crear las Variables privadas: edad, nombre, teléfono 
+    1.1. Crear las Variables privadas: edad, nombre, teléfono 
 /* 2. Crear Class 'Cliente' que hereda de 'Persona' y crearle la Variable: credito
-       2.1. Crearle al objeto las variables: edad, nombre, telefono, credito
-       2.2. Darles valor. Mostrar por pantalla
+    2.1. Crearle al objeto las variables: edad, nombre, telefono, credito
+    2.2. Darles valor. Mostrar por pantalla
 /* 3. Crear Class 'Trabajador' que hereda de 'Persona' y crearle la Variable: salario */
 
 public class ipet09 {

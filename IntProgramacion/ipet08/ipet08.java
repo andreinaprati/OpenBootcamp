@@ -2,8 +2,8 @@
 // ipet08
 
 /* 1. Crear Class 'Persona' 
-       1.1. Crear las Variables privadas: edad, nombre, teléfono de la clase 
-       1.2. Crear Gets y Sets de cada propiedad
+    1.1. Crear las Variables privadas: edad, nombre, teléfono de la clase 
+    1.2. Crear Gets y Sets de cada propiedad
 /* 2. Utiliza los gets y sets para darles valores a las propiedades: edad, nombre, teléfono */
 
 public class ipet08 {
